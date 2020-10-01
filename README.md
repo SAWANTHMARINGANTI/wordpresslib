@@ -1,4 +1,4 @@
-WordPress Python Library
+Useful WordPress Python Library
 ========================
 
 ⚠️ **This library is not maintained anymore**
@@ -7,7 +7,7 @@ A simple python library for WordPress (XML-RPC interface).
 
 The following methods are supported:
 
-* Publishing new post (title, body, tags, categories, custom fields…)
+* Publishing a new post (title, body, tags, categories, custom field, etc)
 * Editing old post
 * Publishing draft post
 * Deleting post
@@ -51,7 +51,7 @@ Thanks
 
 This project has been started by Michele Ferretti in 2005.
 
-Original project was here: 
+Original project is here: 
 
 * http://code.google.com/p/wordpress-library/
 * http://www.blackbirdblog.it/progetti/wordpress-library#english
